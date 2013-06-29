@@ -1,3 +1,7 @@
+# Sudo
+
+[![Build Status](https://travis-ci.org/boxen/puppet-sudo.png?branch=master)](https://travis-ci.org/boxen/puppet-sudo)
+
 Type/provider for managing sudoers file.
 
 Examples of usage can be found in the tests directory. The type also has rdocs.
